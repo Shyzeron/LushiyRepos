@@ -1,0 +1,55 @@
+.PerviyClass{
+    font-size: 30px;
+}
+#PerviyId{
+    font-size: 30px;
+    color: red;
+}
+table{
+    color: white;
+    background-color: blue;
+}
+table th{
+    border: 1px white solid;
+
+}
+p { color: red;
+	<!-- text-align: justify;
+	<font-style: italic;
+	<font-size: 15px;
+	<font-family: Arial;
+	<line-height: 30px; -->
+	font: Arial 16px italic bold;
+	text-indent: 30px;
+	
+}
+h1 { color: green;
+	text-align: center;
+	font-weight: normal;
+	font: normal 20px Verdana;
+}
+h2 { color: blue;
+ width: 300px;
+ text-align: right;
+ font-weight: normal;
+ font-style: italic;
+ font-size: 20px
+ font-family: Times New Roman;
+}
+h3 { color: orange;
+}
+table { width: 400px; 
+	height: 200; 
+	font-family: sans-serif;
+	vertical-align: top;
+}
+th { 
+	text-align: left;
+	font-weight: normal;
+	vertical-align: middle;
+}
+td {
+	font-weight: bold;
+	text-align: center;
+}
+	
